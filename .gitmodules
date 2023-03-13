@@ -1,0 +1,3 @@
+[submodule "include/driver"]
+	path = include/driver
+	url = https://github.com/STMicroelectronics/lps22hh-pid
